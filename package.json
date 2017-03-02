@@ -1,0 +1,22 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "no",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebeautyoflove/tools.git"
+  },
+  "author": "lyx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebeautyoflove/tools/issues"
+  },
+  "homepage": "https://github.com/thebeautyoflove/tools#readme",
+  "devDependencies": {
+    "babel-core": "^5.8.38"
+  }
+}
